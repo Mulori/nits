@@ -41,4 +41,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### `LOGIN`
 
-<img src='https://i.postimg.cc/6Qzg9X3S/tela-login.png' width='200px' height='200px'>
+<img src='https://i.postimg.cc/6Qzg9X3S/tela-login.png' width='500px' height='600px'>
